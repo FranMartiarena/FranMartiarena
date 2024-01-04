@@ -1,4 +1,3 @@
-<h3 align="center">The best Computer Science student (from Argentina)</h3>
 
 - 🔭 I’m currently working on **human teleportation**
 
