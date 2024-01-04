@@ -6,9 +6,7 @@
 - 📝 I do not write articles
 
 - 💬 Ask me about **you**
-
-- 📫 How to reach me **franciscomartiarena@gmail.com**
-
+  
 - ⚡ Fun fact: **My freezer stopped working**
 
 
